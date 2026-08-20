@@ -1,0 +1,12 @@
+# Strict public portfolio allowlist
+*
+
+!.gitignore
+!README.md
+!Capital_Planning_Liquidity_Management_Model.xlsx
+
+!screenshots/
+screenshots/*
+!screenshots/01_executive_dashboard.png
+!screenshots/02_scenario_analysis.png
+!screenshots/03_controls_and_qa.png
